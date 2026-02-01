@@ -30,7 +30,7 @@ The idea behind this dashboard was simple:
 - Toggle between **Sales** and **Units** for flexible analysis  
 
 📷 **Overview Page Screenshot:**  
-👉 _ADD OVERVIEW PAGE IMAGE LINK HERE_
+![Overview Preview](https://github.com/100rya-py/Amazon-Dashboard/blob/main/Overview%20Page.png)
 
 ---
 
@@ -46,7 +46,7 @@ The idea behind this dashboard was simple:
 This page is designed to **feel like an actual product catalog**, while still delivering analytics underneath.
 
 📷 **Product Page Screenshot:**  
-👉 _ADD PRODUCT PAGE IMAGE LINK HERE_
+![Product Preview](https://github.com/100rya-py/Amazon-Dashboard/blob/main/Product%20Page.png)
 
 ---
 
@@ -63,7 +63,7 @@ This page is designed to **feel like an actual product catalog**, while still de
 This view simulates how a business user might **analyze the full lifecycle of a product** — performance, customer response, and stability over time.
 
 📷 **Product View Page Screenshot:**  
-👉 _ADD PRODUCT VIEW PAGE IMAGE LINK HERE_
+![Product View Preview](https://github.com/100rya-py/Amazon-Dashboard/blob/main/Product%20View%20Page.png)
 
 ---
 
@@ -102,4 +102,4 @@ This project uses an e-commerce style dataset containing:
 - Sales, units, returns, and reviews  
 
 🔗 **Data Source Link:**  
-👉 _ADD DATA SOURCE LINK HERE_
+👉https://github.com/100rya-py/Amazon-Dashboard/blob/main/Amazon%20Sales%20Data.zip
